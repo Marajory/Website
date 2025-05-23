@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("Wien.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Century Gothic', 'Segoe UI', sans-serif;
+}
+
+.site-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: white;
+  margin: 0;
+}
+
+.nav-pill {
+  background-color: #f1f1f1;
+  border-radius: 50px;
+}
+
+.nav-btn {
+  background-color: #d9d4d4;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-weight: 500;
+  color: #555;
+  font-family: 'Century Gothic', 'Segoe UI', sans-serif;
+}
+
+.nav-btn:hover {
+  background-color: #ccc;
+}
+
+.edu-card {
+  background-color: #f4f1f2;
+  border-radius: 32px;
+  width: 100%;
+}
+
+.edu-heading {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #777;
+}
+
+.school-img {
+  border-radius: 25px;
+  max-width: 100%;
+}
+
+.school-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #777;
+}
+
+.school-desc {
+  font-size: 1.1rem;
+  color: #888;
+}
+
+.school-date {
+  font-size: 1rem;
+  color: #3399ff;
+  margin-top: 5px;
+}
